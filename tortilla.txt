@@ -3,8 +3,9 @@ patatas
 cebolla
 sal
 aceite
+pimientos
 
-Se frien las patatas con la cebolla
+Se frien las patatas con la cebolla y pimientos
 Se retira para quitar el aceite
 se mezcla con el huevo
 Se hace
