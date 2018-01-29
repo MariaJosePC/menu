@@ -11,3 +11,10 @@ se mezcla con el huevo
 Se hace
 
 Buen provecho
+
+Precio total tortilla 12 €
+Huevos 3 
+patatas 4
+aceit 2
+pimiento 2
+cebolla 1
