@@ -20,4 +20,4 @@ pimiento 2
 cebolla 1
 
 añado iva 4%
-total 12,48
+total 12,48 €
