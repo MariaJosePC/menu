@@ -21,4 +21,4 @@ cebolla 1
 
 añado iva 4%
 total 12,48 €
-Precio especial Tortilla 8€
+Ajuste precio 12€
