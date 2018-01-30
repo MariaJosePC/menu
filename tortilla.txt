@@ -12,4 +12,14 @@ Se hace
 
 Buen provecho
 
-cambiamos menu ariem
+Precio total tortilla 12 €
+Huevos 3 
+patatas 4
+aceit 2
+pimiento 2
+cebolla 1
+
+añado iva 4%
+total 12,48 €
+Ajuste precio 12€
+
